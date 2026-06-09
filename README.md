@@ -76,7 +76,7 @@ The pipeline prints the top 20 teams and writes the full table to
 `output/allocation.csv`. If a team in your draw isn't in the data, the script
 tells you exactly which name to fix.
 
-## Limitations (worth being able to discuss)
+## Limitations
 
 - International football is **sparse per team** — even strong sides play relatively
   few competitive matches, so coefficients carry real uncertainty.
