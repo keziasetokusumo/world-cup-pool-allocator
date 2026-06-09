@@ -1,0 +1,15 @@
+{
+  "_comment": "ILLUSTRATIVE TEMPLATE ONLY. Replace with the actual 2026 draw (12 groups of 4). Team names must match the spelling in results.csv exactly, or run_pipeline will tell you which ones don't.",
+  "A": ["United States", "Iran", "Wales", "Australia"],
+  "B": ["England", "Senegal", "Ecuador", "Japan"],
+  "C": ["Argentina", "Poland", "Saudi Arabia", "Egypt"],
+  "D": ["France", "Denmark", "Tunisia", "Peru"],
+  "E": ["Spain", "Germany", "Costa Rica", "South Korea"],
+  "F": ["Belgium", "Croatia", "Morocco", "Canada"],
+  "G": ["Brazil", "Switzerland", "Cameroon", "Serbia"],
+  "H": ["Portugal", "Uruguay", "Ghana", "Nigeria"],
+  "I": ["Netherlands", "Mexico", "Qatar", "Ivory Coast"],
+  "J": ["Italy", "Colombia", "Algeria", "Paraguay"],
+  "K": ["Sweden", "Chile", "Norway", "United Arab Emirates"],
+  "L": ["Turkey", "Greece", "Scotland", "Panama"]
+}
